@@ -1,7 +1,6 @@
 # Memory Game
 
-My background, skills, works, and services are listed on this page.<br>
-If you are interested, please contact me via the contact form or Twitter.
+It is a simple concentration game.
 
 シンプルな神経衰弱ゲームです。
 
@@ -22,5 +21,4 @@ If you are interested, please contact me via the contact form or Twitter.
 
 - React
 - Tailwind CSS
-- Emotion
 - Vite
